@@ -1,0 +1,6 @@
+ECOZRIBA — Prototype HTML statique
+
+Ouvrir index.html dans un navigateur, ou héberger le dossier sur un hébergement statique (GitHub Pages, Netlify, Cloudflare Pages).
+Tous les assets, CSS et JavaScript sont inclus. Aucun npm, Docker, Angular, backend ni base PostgreSQL nécessaire.
+Les formulaires simulent les envois sans transmettre de données. Le panier est enregistré localement dans le navigateur.
+Google Drive peut stocker/partager le ZIP mais ne constitue pas un hébergement web public classique pour exécuter le site.
